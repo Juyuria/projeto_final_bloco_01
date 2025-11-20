@@ -1,4 +1,4 @@
-import { Produto } from './src/model/Produto';
+import { Produto } from './src/model/Bola';
 import { ProdutoRepository } from './src/repository/ProdutoRepository';
 
 export class ProdutoController {
